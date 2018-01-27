@@ -1,1 +1,1 @@
-console.log('Update Yeoman Generator Test: v0.0.0');
+console.log('Update Yeoman Generator Test: v0.0.2');
