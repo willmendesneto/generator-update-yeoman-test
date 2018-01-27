@@ -1,5 +1,5 @@
 {
-  "generator-update-yeoman-generator-test": {
+  "generator-update-yeoman-test": {
     "version": "<%= generatorVersion %>"
   }
 }
