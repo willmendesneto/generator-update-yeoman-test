@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased][]
+
+## [0.0.2][] - 2018-01-27
 ### Added
 - Another commit: v0.0.2
 
@@ -13,5 +15,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Initial commit: v0.0.0
 
 
-[Unreleased]: https://github.com/willmendesneto/generator-update-yeoman-test/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/willmendesneto/generator-update-yeoman-test/compare/v0.0.2...HEAD
+[0.0.2]: https://github.com/willmendesneto/generator-update-yeoman-test/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/willmendesneto/generator-update-yeoman-test/tree/v0.0.1

@@ -1,6 +1,6 @@
 {
   "name": "generator-update-yeoman-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generator created for test update-yeoman-generator script",
   "repository": {
     "type": "git",
