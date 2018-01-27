@@ -1,0 +1,22 @@
+{
+  "name": "<%= reactComponent %>",
+  "version": "0.0.1",
+  "generatorVersion": "<%= generatorVersion %>",
+  "description": "<%= description %>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/willmendesneto/<%= reactComponent %>.git"
+  },
+  "author": "<%= author %>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willmendesneto/<%= reactComponent %>/issues"
+  },
+  "homepage": "https://github.com/willmendesneto/<%= reactComponent %>#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
