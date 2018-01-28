@@ -45,7 +45,6 @@ describe('Generator POI boilerplate: bootstrap', () => {
 
   it('should create configuration files', () => {
     assert.file([
-      '.editorconfig',
       '.gitattributes',
       '.gitignore',
       '.npmignore',
@@ -59,6 +58,7 @@ describe('Generator POI boilerplate: bootstrap', () => {
   it('should create main file', () => {
     assert.file([
       'index.js',
+      'new-file.js',
     ]);
   });
 
